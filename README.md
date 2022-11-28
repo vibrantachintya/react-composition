@@ -1,2 +1,3 @@
 # react-composition
-Created with CodeSandbox
+
+Example of composition. VS Code like nested folder structure.
